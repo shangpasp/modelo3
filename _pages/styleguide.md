@@ -1,91 +1,19 @@
 ---
 layout: page
-title: Style Guide
+title: Primeiros Passos
 permalink: /styleguide/
 image: 08.jpg
 ---
 
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+Informações importantes para sua primeira visita:
 
-***
+Semanalmente, conforme nosso calendário, nos encontramos na UNIPAZ, localizada na Rua Pedro Morganti, 76, próxima ao metrô Vila Mariana.
 
-### Headings by default:
+Iniciamos as atividades às 8 horas. Recomendamos que chegue com 15 minutos de antecedência para poder interagir com o grupo (sangha) e tirar eventuais dúvidas. Nós temos material para compartilhar, a sangha ajudará você a se integrar com a prática.
 
-# This is the default title
-## This is the default title
-### This is the default title
-#### This is the default title
-##### This is the default title
-###### This is the default title
+Aconselhamos que venha com roupas confortáveis e sapatos fáceis de descalçar. Geralmente nos sentamos em colchonetes e almofadas para a prática, mas, caso você tenha alguma restrição ou dificuldade para sentar-se no chão, temos também cadeiras. Se possível, sugerimos que todos tragam algo para o nosso café da manhã colaborativo.
 
-{% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
-{% endhighlight %}
-
-***
-
-### Lists
-
-#### Ordered list example:
-
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-***
-
-#### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-{% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
-
-* Unordered list item 1
-* Unordered list item 2
-{% endhighlight %}
-
-***
-
-### Quotes
-
-> Coming together is a beginning; keeping together is progress; working together is success. — Edward Everett Hale
-
-***
-
-### Syntax Highlighter
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
-***
-
-### Videos
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
-
-***
-
-### Images
+Nossas atividades podem ser acompanhadas pelo calendário disponível no site ou pela nossa newsletter.
 
 ![]({{site.baseurl}}/images/09.jpg)
 *Backyard*
