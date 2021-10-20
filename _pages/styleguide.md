@@ -2,7 +2,7 @@
 layout: page
 title: Primeiros Passos
 permalink: /styleguide/
-image: 08.jpg
+image: 55.jpeg
 ---
 
 Informações importantes para sua primeira visita:
